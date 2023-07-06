@@ -30,6 +30,15 @@
 
 ---
 
+## Algorithm
+1. initialize left and right pointers at index 0
+2. while right pointer is not at the end of the string, do the following:
+    1. update frequency table for `s[r]`
+    2. if `length - max_freq <= k`, update `max_length`
+    3. else, slide the left pointer until the inequality is satisfied; at each iteration, decrement frequency table for `s[l]`
+    4. increment right pointer
+3. return `max_length`
+
 ## Things I learned
 - Step back from the problem if feeling stuck, approach at a slightly different angle when you come back
 - sliding window is useful for optimization problems, in this case, a maximization problem
