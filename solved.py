@@ -9,7 +9,19 @@ months = [
 
 dayOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
-def mark_solved(problem_num: dict):
+base_url = "https://leetcode.com/problems/"
+
+diff_colors = {
+    "easy": "green",
+    "medium": "orange",
+    "hard": "red",
+}
+
+def get_difficulty_color(difficulty: str) -> str:
+    formatted_difficulty = difficulty.lower()
+    return diff_colors[formatted_difficulty]
+
+def mark_solved(problem: dict):
     today = datetime.now()
     day = dayOfWeek[today.weekday()]
     month = months[today.month - 1]
@@ -17,8 +29,12 @@ def mark_solved(problem_num: dict):
     year = today.year
 
     today_formatted = f"{day}, {month} {date}, {year}"
-    solved_msg = f"Solved #{problem_num['id']} - {problem_num['title']}"
-    msg_to_append = f"\n{today_formatted}: {solved_msg}\n"
+    problem_url = base_url + problem['titleSlug']
+    hyperlink_text = f"#{problem['id']} - {problem['title']}"
+    hyperlink_color = get_difficulty_color(problem["difficulty"])
+    hyperlink = f'<a href="{problem_url}" style="color: {hyperlink_color};">{hyperlink_text}</a>'
+
+    msg_to_append = f"\n{today_formatted}: Solved {hyperlink}\n"
 
     with open("README.md", "a") as file:
         file.write(msg_to_append)
@@ -32,7 +48,7 @@ if __name__ == "__main__":
         questions_hash_table = json.load(json_file)
         question = questions_hash_table[sys.argv[1]]
         mark_solved(question)
-        
+
         json_file.close()
     except:
         print("Enter an integral problem number")
