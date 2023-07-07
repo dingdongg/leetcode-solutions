@@ -14,4 +14,5 @@ else
     cp $path_prefix/reflection_template.md README.md
     touch main.py
     echo $SUCCESS_MSG
+    code $full_path
 fi
