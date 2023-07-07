@@ -11,15 +11,11 @@ dayOfWeek = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
 
 base_url = "https://leetcode.com/problems/"
 
-diff_colors = {
-    "easy": "green",
-    "medium": "orange",
-    "hard": "red",
+diff_emojis = {
+    "easy": "🟢",
+    "medium": "🟠",
+    "hard": "🔴",
 }
-
-def get_difficulty_color(difficulty: str) -> str:
-    formatted_difficulty = difficulty.lower()
-    return diff_colors[formatted_difficulty]
 
 def mark_solved(problem: dict):
     today = datetime.now()
@@ -31,10 +27,10 @@ def mark_solved(problem: dict):
     today_formatted = f"{day}, {month} {date}, {year}"
     problem_url = base_url + problem['titleSlug']
     hyperlink_text = f"#{problem['id']} - {problem['title']}"
-    hyperlink_color = get_difficulty_color(problem["difficulty"])
-    hyperlink = f'<a href="{problem_url}" style="color: {hyperlink_color};">{hyperlink_text}</a>'
+    hyperlink = f'<a href="{problem_url}">{hyperlink_text}</a>'
+    difficulty_emoji = diff_emojis[problem["difficulty"].lower()]
 
-    msg_to_append = f"\n{today_formatted}: Solved {hyperlink}\n"
+    msg_to_append = f"\n{difficulty_emoji} {today_formatted}: Solved {hyperlink}\n"
 
     with open("README.md", "a") as file:
         file.write(msg_to_append)
