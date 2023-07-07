@@ -21,12 +21,16 @@
 ---
 
 ## Optimization notes
-
+- One optimization we can employ is removing the set for 2 `int` variables:
+    - a variable (`have`) that keeps track of the number of *unique* letters that satisfies the condition
+    - a variable (`need`) that is constant, and is the number of *unique* letters in `t`
+    - Due to the hash tables, our memory usage won't change much in terms of complexity, but it technically uses less than our unoptimized, set solution.
+    - 
 ### Performance
 
-*Time* - ``
+*Time* - `O(len(s) + len(t))`
 
-*Memory* - ``
+*Memory* - `O(52 * 2) = O(1)`
 
 ---
 
