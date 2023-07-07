@@ -16,7 +16,7 @@ def mark_solved(problem_num: int):
     year = today.year
     today_formatted = f"{day}, {month} {date}, {year}"
     with open("README.md", "a") as file:
-        file.write(f"{today_formatted} - Solved #{problem_num}\n")
+        file.write(f"{today_formatted} - Solved #{problem_num}\n\n")
         file.close()
 
 if __name__ == "__main__":
