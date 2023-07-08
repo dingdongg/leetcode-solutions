@@ -1,5 +1,3 @@
-# Problem # - Problem Name
-
 ## General Thoughts
 - 
 
