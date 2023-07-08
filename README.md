@@ -9,3 +9,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Wed, Jul 5, 2023: Solved <a href="https://leetcode.com/problems/permutation-in-string">#567 - Permutation in String</a>
 
 🔴 Thu, Jul 6, 2023: Solved <a href="https://leetcode.com/problems/minimum-window-substring">#76 - Minimum Window Substring</a>
+
+🔴 Sat, Jul 8, 2023: Solved <a href="https://leetcode.com/problems/sliding-window-maximum">#239 - Sliding Window Maximum</a>
