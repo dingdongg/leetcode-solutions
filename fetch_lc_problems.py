@@ -53,15 +53,15 @@ def get_problems():
     results = res.json()
     questions = results['data']['problemsetQuestionList']['questions']
 
-    qs_formatted = {}
+    qs_formatted = []
 
     for q in questions:
-        qs_formatted[ATTR_ID] = {
+        qs_formatted.append({
             ATTR_DIFFICULTY: q[ATTR_DIFFICULTY],
             ATTR_ID: q[ATTR_ID],
             ATTR_TITLE: q[ATTR_TITLE],
             ATTR_TITLE_SLUG: q[ATTR_TITLE_SLUG],
-        }
+        })
 
     qs_json = json.dumps(qs_formatted, indent=4)
 
