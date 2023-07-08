@@ -11,3 +11,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🔴 Thu, Jul 6, 2023: Solved <a href="https://leetcode.com/problems/minimum-window-substring">#76 - Minimum Window Substring</a>
 
 🔴 Sat, Jul 8, 2023: Solved <a href="https://leetcode.com/problems/sliding-window-maximum">#239 - Sliding Window Maximum</a>
+
+🟠 Sat, Jul 8, 2023: Solved <a href="https://leetcode.com/problems/the-number-of-weak-characters-in-the-game">#1996 - The Number of Weak Characters in the Game</a>
