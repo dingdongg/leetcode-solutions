@@ -25,7 +25,8 @@
 ---
 
 ## Algorithm
+```
 1. 
-
+```
 ## Things I learned
 - 
