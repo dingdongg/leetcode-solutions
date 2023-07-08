@@ -53,7 +53,8 @@ def get_problems():
     results = res.json()
     questions = results['data']['problemsetQuestionList']['questions']
 
-    qs_formatted = []
+    # dummy object to prevent headaches from 0-based indexing in ./add_soln.sh
+    qs_formatted = [{}] 
 
     for q in questions:
         qs_formatted.append({
@@ -66,7 +67,7 @@ def get_problems():
     qs_json = json.dumps(qs_formatted, indent=4)
 
     with open(PROBLEMS_FILE, "w") as file:
-        file.write(str(qs_json))
+        file.write(qs_json)
         file.close()
 
 if __name__ == "__main__": 
