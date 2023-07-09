@@ -1,8 +1,8 @@
 from aifc import Error
 import sys
 from datetime import datetime
-from scripts.attempted import AttemptedService
-from scripts.questions import Question, QuestionsService
+from services.attempted import AttemptedService
+from services.questions import Question, QuestionsService
 
 months = [
     "Jan", "Feb", "Mar", "Apr", "May", "Jun", 
