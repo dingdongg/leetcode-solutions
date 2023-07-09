@@ -4,17 +4,16 @@ import json
 
 # constants
 API_URL = "https://leetcode.com/graphql/"
-PROBLEMS_FILE = "questions.json"
+QUESTIONS_FILE = "questions.json"
 
 ATTR_DIFFICULTY = "difficulty"
 ATTR_TITLE = "title"
 ATTR_TITLE_SLUG = "titleSlug"
 ATTR_ID = "frontendQuestionId"
 
-def get_problems():
+def fetch_questions():
     """
-    Fetch the entire list of leetcode problems via their GraphQL API
-    
+    Fetch the entire list of leetcode questions via their GraphQL API
     and cache results to a local `json` file
     """
     res = requests.post(API_URL, json = {
@@ -66,12 +65,12 @@ def get_problems():
 
     qs_json = json.dumps(qs_formatted, indent=4)
 
-    with open(PROBLEMS_FILE, "w") as file:
+    with open(QUESTIONS_FILE, "w") as file:
         file.write(qs_json)
         file.close()
 
 if __name__ == "__main__": 
-    if os.stat(PROBLEMS_FILE).st_size == 0:
-        get_problems()
+    if os.stat(QUESTIONS_FILE).st_size == 0:
+        fetch_questions()
     else:
-        print("Problems previously fetched. Use the cached results.")
+        print("Questions previously fetched. Use the cached results.")
