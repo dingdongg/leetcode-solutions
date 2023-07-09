@@ -6,7 +6,7 @@ json_file="questions.json"
 title_slug=$(jq .[$problem_num].titleSlug $json_file | sed 's/^.//;s/.$//')
 title=$(jq .[$problem_num].title $json_file | sed 's/^.//;s/.$//')
 dirname="$problem_num-$title_slug"
-full_path="$path_prefix/$dirname"
+full_path="$path_prefix/questions/$dirname"
 
 # console messages
 ERROR_DIR_EXISTS="Solution folder already exists"
