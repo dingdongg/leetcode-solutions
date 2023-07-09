@@ -1,6 +1,6 @@
 problem_num="$1"
 path_prefix="$PWD"
-json_file="problems.json"
+json_file="questions.json"
 
 # fetch title, title slug from json file and parse it
 title_slug=$(jq .[$problem_num].titleSlug $json_file | sed 's/^.//;s/.$//')

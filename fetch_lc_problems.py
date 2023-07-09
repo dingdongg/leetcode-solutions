@@ -4,7 +4,7 @@ import json
 
 # constants
 API_URL = "https://leetcode.com/graphql/"
-PROBLEMS_FILE = "problems.json"
+PROBLEMS_FILE = "questions.json"
 
 ATTR_DIFFICULTY = "difficulty"
 ATTR_TITLE = "title"
