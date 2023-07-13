@@ -15,3 +15,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Sat, Jul 8, 2023: Solved <a href="https://leetcode.com/problems/the-number-of-weak-characters-in-the-game">#1996 - The Number of Weak Characters in the Game</a>
 
 🟠 Sat, Jul 8, 2023: Solved <a href="https://leetcode.com/problems/online-stock-span">#901 - Online Stock Span</a>
+
+🟠 Thu, Jul 13, 2023: Solved <a href="https://leetcode.com/problems/maximum-subarray">#53 - Maximum Subarray</a>
