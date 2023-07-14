@@ -23,3 +23,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Thu, Jul 13, 2023: Solved <a href="https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters">#340 - Longest Substring with At Most K Distinct Characters</a>
 
 🟠 Fri, Jul 14, 2023: Solved <a href="https://leetcode.com/problems/fruit-into-baskets">#904 - Fruit Into Baskets</a>
+
+🟠 Fri, Jul 14, 2023: Solved <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters">#3 - Longest Substring Without Repeating Characters</a>
