@@ -29,3 +29,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Mon, Jul 17, 2023: Solved <a href="https://leetcode.com/problems/max-consecutive-ones-iii">#1004 - Max Consecutive Ones III</a>
 
 🟠 Mon, Jul 17, 2023: REATTEMPTED <a href="https://leetcode.com/problems/permutation-in-string">#567 - Permutation in String</a>
+
+🟠 Mon, Jul 17, 2023: Solved <a href="https://leetcode.com/problems/find-all-anagrams-in-a-string">#438 - Find All Anagrams in a String</a>
