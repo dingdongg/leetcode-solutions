@@ -31,3 +31,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Mon, Jul 17, 2023: REATTEMPTED <a href="https://leetcode.com/problems/permutation-in-string">#567 - Permutation in String</a>
 
 🟠 Mon, Jul 17, 2023: Solved <a href="https://leetcode.com/problems/find-all-anagrams-in-a-string">#438 - Find All Anagrams in a String</a>
+
+🔴 Thu, Jul 20, 2023: REATTEMPTED <a href="https://leetcode.com/problems/minimum-window-substring">#76 - Minimum Window Substring</a>
