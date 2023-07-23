@@ -37,3 +37,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🔴 Thu, Jul 20, 2023: Solved <a href="https://leetcode.com/problems/substring-with-concatenation-of-all-words">#30 - Substring with Concatenation of All Words</a>
 
 🟢 Sun, Jul 23, 2023: Solved <a href="https://leetcode.com/problems/two-sum">#1 - Two Sum</a>
+
+🟢 Sun, Jul 23, 2023: Solved <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array">#26 - Remove Duplicates from Sorted Array</a>
