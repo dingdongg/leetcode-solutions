@@ -39,3 +39,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Sun, Jul 23, 2023: Solved <a href="https://leetcode.com/problems/two-sum">#1 - Two Sum</a>
 
 🟢 Sun, Jul 23, 2023: Solved <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array">#26 - Remove Duplicates from Sorted Array</a>
+
+🟢 Sun, Jul 23, 2023: Solved <a href="https://leetcode.com/problems/squares-of-a-sorted-array">#977 - Squares of a Sorted Array</a>
