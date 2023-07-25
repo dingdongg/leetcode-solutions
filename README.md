@@ -43,3 +43,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Sun, Jul 23, 2023: Solved <a href="https://leetcode.com/problems/squares-of-a-sorted-array">#977 - Squares of a Sorted Array</a>
 
 🟠 Mon, Jul 24, 2023: Solved <a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted">#167 - Two Sum II - Input Array Is Sorted</a>
+
+🟠 Mon, Jul 24, 2023: Solved <a href="https://leetcode.com/problems/3sum">#15 - 3Sum</a>
