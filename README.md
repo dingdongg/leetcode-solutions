@@ -55,3 +55,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/4sum">#18 - 4Sum</a>
 
 🟢 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/backspace-string-compare">#844 - Backspace String Compare</a>
+
+🟠 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/shortest-unsorted-continuous-subarray">#581 - Shortest Unsorted Continuous Subarray</a>
