@@ -53,3 +53,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Fri, Aug 4, 2023: Solved <a href="https://leetcode.com/problems/subarray-product-less-than-k">#713 - Subarray Product Less Than K</a>
 
 🟠 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/4sum">#18 - 4Sum</a>
+
+🟢 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/backspace-string-compare">#844 - Backspace String Compare</a>
