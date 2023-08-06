@@ -59,3 +59,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/shortest-unsorted-continuous-subarray">#581 - Shortest Unsorted Continuous Subarray</a>
 
 🟢 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/linked-list-cycle">#141 - Linked List Cycle</a>
+
+🟠 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/linked-list-cycle-ii">#142 - Linked List Cycle II</a>
