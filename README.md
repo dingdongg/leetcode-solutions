@@ -65,3 +65,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Sat, Aug 5, 2023: Solved <a href="https://leetcode.com/problems/happy-number">#202 - Happy Number</a>
 
 🟢 Mon, Aug 7, 2023: Solved <a href="https://leetcode.com/problems/middle-of-the-linked-list">#876 - Middle of the Linked List</a>
+
+🟢 Mon, Aug 7, 2023: Solved <a href="https://leetcode.com/problems/palindrome-linked-list">#234 - Palindrome Linked List</a>
