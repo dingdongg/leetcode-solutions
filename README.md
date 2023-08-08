@@ -69,3 +69,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Mon, Aug 7, 2023: Solved <a href="https://leetcode.com/problems/palindrome-linked-list">#234 - Palindrome Linked List</a>
 
 🟠 Mon, Aug 7, 2023: Solved <a href="https://leetcode.com/problems/reorder-list">#143 - Reorder List</a>
+
+🟢 Mon, Aug 7, 2023: Solved <a href="https://leetcode.com/problems/merge-two-sorted-lists">#21 - Merge Two Sorted Lists</a>
