@@ -75,3 +75,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Tue, Aug 8, 2023: Solved <a href="https://leetcode.com/problems/circular-array-loop">#457 - Circular Array Loop</a>
 
 🟠 Wed, Aug 9, 2023: Solved <a href="https://leetcode.com/problems/merge-intervals">#56 - Merge Intervals</a>
+
+🟠 Wed, Aug 9, 2023: Solved <a href="https://leetcode.com/problems/insert-interval">#57 - Insert Interval</a>
