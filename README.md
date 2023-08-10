@@ -73,3 +73,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Mon, Aug 7, 2023: Solved <a href="https://leetcode.com/problems/merge-two-sorted-lists">#21 - Merge Two Sorted Lists</a>
 
 🟠 Tue, Aug 8, 2023: Solved <a href="https://leetcode.com/problems/circular-array-loop">#457 - Circular Array Loop</a>
+
+🟠 Wed, Aug 9, 2023: Solved <a href="https://leetcode.com/problems/merge-intervals">#56 - Merge Intervals</a>
