@@ -81,3 +81,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Thu, Aug 10, 2023: Solved <a href="https://leetcode.com/problems/interval-list-intersections">#986 - Interval List Intersections</a>
 
 🟢 Thu, Aug 10, 2023: Solved <a href="https://leetcode.com/problems/meeting-rooms">#252 - Meeting Rooms</a>
+
+🟠 Fri, Aug 11, 2023: Solved <a href="https://leetcode.com/problems/meeting-rooms-ii">#253 - Meeting Rooms II</a>
