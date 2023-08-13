@@ -83,3 +83,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Thu, Aug 10, 2023: Solved <a href="https://leetcode.com/problems/meeting-rooms">#252 - Meeting Rooms</a>
 
 🟠 Fri, Aug 11, 2023: Solved <a href="https://leetcode.com/problems/meeting-rooms-ii">#253 - Meeting Rooms II</a>
+
+🔴 Sun, Aug 13, 2023: Solved <a href="https://leetcode.com/problems/employee-free-time">#759 - Employee Free Time</a>
