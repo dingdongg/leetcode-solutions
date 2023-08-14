@@ -25,7 +25,7 @@ else
     mkdir $full_path
     cd $full_path
     touch README.md 
-    echo "# $problem_num - $title\n" >> README.md
+    echo -e "# $problem_num - $title\n" >> README.md
     cat $path_prefix/reflection_template.md >> README.md
     touch main.py
     echo $SUCCESS_MSG
