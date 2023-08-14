@@ -2,7 +2,7 @@ problem_num="$1"
 path_prefix="$PWD"
 json_file="questions.json"
 
-if ! [[ $problem_num =~ '^[0-9]+$' ]]
+if ! [[ $problem_num =~ ^[0-9]+$ ]]
 then
     echo "Supply an INTEGER problem number."
     exit
