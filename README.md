@@ -87,3 +87,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🔴 Sun, Aug 13, 2023: Solved <a href="https://leetcode.com/problems/employee-free-time">#759 - Employee Free Time</a>
 
 🟠 Wed, Aug 30, 2023: Solved <a href="https://leetcode.com/problems/clone-graph">#133 - Clone Graph</a>
+
+🟠 Wed, Aug 30, 2023: Solved <a href="https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph">#323 - Number of Connected Components in an Undirected Graph</a>
