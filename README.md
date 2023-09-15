@@ -93,3 +93,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Thu, Sep 14, 2023: Solved <a href="https://leetcode.com/problems/target-sum">#494 - Target Sum</a>
 
 🟢 Fri, Sep 15, 2023: Solved <a href="https://leetcode.com/problems/min-cost-climbing-stairs">#746 - Min Cost Climbing Stairs</a>
+
+🟠 Fri, Sep 15, 2023: Solved <a href="https://leetcode.com/problems/house-robber">#198 - House Robber</a>
