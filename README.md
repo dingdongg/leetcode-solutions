@@ -97,3 +97,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Fri, Sep 15, 2023: Solved <a href="https://leetcode.com/problems/house-robber">#198 - House Robber</a>
 
 🟠 Sat, Sep 16, 2023: Solved <a href="https://leetcode.com/problems/binary-tree-level-order-traversal">#102 - Binary Tree Level Order Traversal</a>
+
+🟠 Sun, Sep 17, 2023: Solved <a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii">#107 - Binary Tree Level Order Traversal II</a>
