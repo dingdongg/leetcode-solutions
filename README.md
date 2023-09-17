@@ -95,3 +95,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Fri, Sep 15, 2023: Solved <a href="https://leetcode.com/problems/min-cost-climbing-stairs">#746 - Min Cost Climbing Stairs</a>
 
 🟠 Fri, Sep 15, 2023: Solved <a href="https://leetcode.com/problems/house-robber">#198 - House Robber</a>
+
+🟠 Sat, Sep 16, 2023: Solved <a href="https://leetcode.com/problems/binary-tree-level-order-traversal">#102 - Binary Tree Level Order Traversal</a>
