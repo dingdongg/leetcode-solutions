@@ -7,3 +7,5 @@
 🟠 On Sun, Sep 17, 2023, redo: <a href="https://leetcode.com/problems/target-sum">#494 - Target Sum</a>
 
 🟢 On Mon, Sep 18, 2023, redo: <a href="https://leetcode.com/problems/min-cost-climbing-stairs">#746 - Min Cost Climbing Stairs</a>
+
+🟠 On Wed, Sep 20, 2023, redo: <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal">#103 - Binary Tree Zigzag Level Order Traversal</a>
