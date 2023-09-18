@@ -101,3 +101,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Sun, Sep 17, 2023: Solved <a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii">#107 - Binary Tree Level Order Traversal II</a>
 
 🟠 Sun, Sep 17, 2023: Solved <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal">#103 - Binary Tree Zigzag Level Order Traversal</a>
+
+🟢 Sun, Sep 17, 2023: Solved <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree">#111 - Minimum Depth of Binary Tree</a>
