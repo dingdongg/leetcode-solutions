@@ -109,3 +109,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Fri, Sep 22, 2023: Solved <a href="https://leetcode.com/problems/path-sum">#112 - Path Sum</a>
 
 🟠 Sat, Sep 23, 2023: Solved <a href="https://leetcode.com/problems/path-sum-ii">#113 - Path Sum II</a>
+
+🟠 Sat, Sep 23, 2023: Solved <a href="https://leetcode.com/problems/sum-root-to-leaf-numbers">#129 - Sum Root to Leaf Numbers</a>
