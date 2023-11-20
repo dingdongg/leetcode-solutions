@@ -115,3 +115,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟠 Sat, Sep 23, 2023: Solved <a href="https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree">#1430 - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree</a>
 
 🟢 Sun, Nov 19, 2023: Solved <a href="https://leetcode.com/problems/invert-binary-tree">#226 - Invert Binary Tree</a>
+
+🟢 Sun, Nov 19, 2023: Solved <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree">#104 - Maximum Depth of Binary Tree</a>
