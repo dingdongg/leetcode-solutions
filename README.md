@@ -119,3 +119,5 @@ So that I can keep track of progress and use my own code editor for the solution
 🟢 Sun, Nov 19, 2023: Solved <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree">#104 - Maximum Depth of Binary Tree</a>
 
 🟢 Tue, Nov 21, 2023: Solved <a href="https://leetcode.com/problems/diameter-of-binary-tree">#543 - Diameter of Binary Tree</a>
+
+🟢 Thu, Nov 23, 2023: Solved <a href="https://leetcode.com/problems/balanced-binary-tree">#110 - Balanced Binary Tree</a>

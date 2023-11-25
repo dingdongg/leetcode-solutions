@@ -11,3 +11,5 @@
 🟠 On Wed, Sep 20, 2023, redo: <a href="https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal">#103 - Binary Tree Zigzag Level Order Traversal</a>
 
 🟠 On Tue, Sep 26, 2023, redo: <a href="https://leetcode.com/problems/path-sum-ii">#113 - Path Sum II</a>
+
+🟢 On Sun, Nov 26, 2023, redo: <a href="https://leetcode.com/problems/balanced-binary-tree">#110 - Balanced Binary Tree</a>
